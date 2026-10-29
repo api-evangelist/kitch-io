@@ -64,17 +64,72 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-kitch is a company surfaced via the API Evangelist harvest backlog (source: vc-portfolio; backed by seedcamp) and added to the network as a stub for full-pipeline profiling.
+kitch is a company surfaced via the API Evangelist harvest backlog (source: vc-portfolio; backed by seedcamp) and added to the network as a stub for full-pipeline profiling. The company focuses on providing a platform that connects kitchens, chefs, and food service providers through a unified API, enabling streamlined ordering, inventory management, and real‑time analytics. Backed by Seedcamp, kitch aims to simplify the culinary supply chain, offering developers robust endpoints for menu creation, order processing, and vendor integration, all designed with modern RESTful principles and comprehensive documentation.
 
-**Areas:** Company
+**Areas:** Company · Startup · Technology · API · Seedcamp
 
 ## kitch on APIs.io
 
 Everything profiled for kitch is published on APIs.io rather than in this repository. Start at the provider page — **[apis.io/providers/kitch-io/](https://apis.io/providers/kitch-io/)** — or go straight to one of the APIs or properties below.
 
+### Published properties
+
+Each property below is a page on APIs.io carrying the machine-readable artifact and what it says.
+
+#### Security (1)
+
+Authentication, trust centre, and vulnerability disclosure.
+
+- [Kitch Io Domain Security](https://apis.io/security/kitch-io/kitch-io-domain-security/)
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](https://1-win.in.net/)
+
 ## API Evangelist rating
 
-Not yet rated. See [apis.io/providers/kitch-io/](https://apis.io/providers/kitch-io/).
+**Kin Score 3.4** — minimal · rubric 0.25.0 · scored 2026-10-29
+
+| Facet | Score |
+|---|---|
+| Discoverability | 48.2 |
+| Contract quality | 0.0 |
+| Contract governance | 0.0 |
+| Operational transparency | 0.0 |
+| Developer ergonomics | 0.0 |
+| Access clarity | 0.0 |
+
+**Agent readiness 0.0** — human-only
+
+| Agent-readiness dimension | Result |
+|---|---|
+| Spec Presence | — |
+| Agentic Access | — |
+| Reversibility Documented | — |
+| MCP Server | — |
+| Auth Clarity | — |
+| Idempotency | — |
+| Error Semantics | — |
+| OpenAPI Examples | — |
+| Rate Limit Signal | — |
+| Event Surface Described | — |
+| Agent Skills | — |
+| Well Known Catalog | — |
+| Consent Identity | — |
+| Agent Card | — |
+| Dry Run Mode | — |
+| Delegated Identity | — |
+| Protected Resource Metadata | — |
+| Dynamic Client Registration | — |
+| Agentic Commerce | — |
+| Pagination Ratio | na |
+| Operation Distinctiveness | na |
+
+**Regulatory alignment 5.9** — Horizontal (data, software, accessibility, platform)
+
+The rubric is published at [github.com/api-evangelist/kin-score](https://github.com/api-evangelist/kin-score). The per-check breakdown behind these numbers — which checks were earned, partial or missed — along with score history and how this provider compares to its peers, is available at [apis.io/providers/kitch-io/](https://apis.io/providers/kitch-io/).
 
 ## How this profile is made
 
